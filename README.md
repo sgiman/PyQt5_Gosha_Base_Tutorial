@@ -12,6 +12,8 @@ https://www.youtube.com/watch?v=HuszbTeETYo&list=PL0lO_mIqDDFXeDkOLHmEsL_HAEhw4-
 ![hqdefault (3)](https://github.com/sgiman/PyQT5_Calculator_UI/assets/7030369/31658b2f-2db6-489d-a39d-edff789e2dd5)
 
 
+
+
 **Sgiman @ 2023**
 
 
